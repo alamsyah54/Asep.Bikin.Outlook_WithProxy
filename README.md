@@ -21,7 +21,11 @@ run this command in terminal for install dependencies, Make sure you already dow
 npm install puppeteer axios crypto-js
 ```
 
-### Step 3: Run The Code
+### Step 3: Setting Up Your Expire ID
+
+Set your Expire ID in config.js
+
+### Step 4: Run The Code
 
 After everythings ready, Run the code
 
