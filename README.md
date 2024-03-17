@@ -3,11 +3,15 @@
 
 ## Usage Instructions
 
+Download capsolver [here](https://github.com/capsolver/capsolver-browser-extension/releases).
+
+Download or clone this repository using Git. If you haven't installed Git yet, you can download it [here](https://git-scm.com/downloads).
+
 Follow these steps to use the code:
 
 ### Step 1: Clone the Repository
 
-Download or clone this repository using Git. If you haven't installed Git yet, you can download it [here](https://git-scm.com/downloads).
+Download or clone this repository using Git.
 
 ```bash
 git clone https://github.com/alamsyah54/Asep.Bikin.Outlook_WithProxy.git OUTLOOK_FUCKER
