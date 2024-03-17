@@ -1,5 +1,5 @@
 <img src="https://www.store-alamsyah.id/_next/image?url=%2Ficons%2FAOutlineWhite.webp&w=128&q=75" alt="Outlook" width="43">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Outlook" width="45">
-# ALAMSYAH.ID | OUTLOOK FUCKER V.1
+# ALAMSYAH.ID | OUTLOOK FUCKER V.1 <a href="https://wa.me/6285172010009" target="_blank"><img src="https://img.shields.io/badge/IDR_69K_/Day-blue" alt="Pricing" style="height: 20px;"></a>
 
 ## Usage Instructions
 
