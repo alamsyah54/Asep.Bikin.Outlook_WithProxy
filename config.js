@@ -12,5 +12,4 @@ module.exports = {
     ExpireID,
     bravePath,
     dateOfBirth,
-    capsolverAPIKey,
 };
