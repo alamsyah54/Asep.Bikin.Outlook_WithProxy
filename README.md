@@ -29,7 +29,11 @@ npm install puppeteer axios crypto-js
 
 Set your Expire ID in config.js
 
-### Step 4: Run The Code
+### Step 4: Setting Up your Capsolver API Key 
+
+set the API Key in Capsolver Extension folder /assets/config.js
+
+### Step 5: Run The Code
 
 After everythings ready, Run the code
 
